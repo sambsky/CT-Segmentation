@@ -4,7 +4,7 @@ A medical image processing application designed to isolate and segment skeletal 
 
 # Overview
 
-This project implements the "Bones Segmentation in Contrast CT" algorithm (Part 1 of the CASMIP course curriculum). The core challenge in medical imaging is often handling observer variability and noise; this solution uses automated threshold detection and morphological operations to achieve a clean segmentation of the skeleton.
+This project implements the "Bones Segmentation in Contrast CT" algorithm. The core challenge in medical imaging is often handling observer variability and noise; this solution uses automated threshold detection and morphological operations to achieve a clean segmentation of the skeleton.
 
 # Core Features
 * NIFTI Support: Reads and writes `.nii.gz` medical image files using `nibabel`.
